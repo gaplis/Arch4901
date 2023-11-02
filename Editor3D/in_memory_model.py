@@ -1,4 +1,4 @@
-from Editor3D.model_store import PolygonalModel, Scene, Camera, Flash
+from Editor3D.model_elements import PolygonalModel, Scene, Camera, Flash
 
 
 class IModelChangedObserver:
